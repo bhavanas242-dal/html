@@ -1,0 +1,10 @@
+div>p{
+    color:blueviolet;
+text-align:center;
+}
+div p{
+    color:aqua;
+}
+div~p{
+    color:blue;
+}
